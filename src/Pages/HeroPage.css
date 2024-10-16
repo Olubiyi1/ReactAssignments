@@ -1,0 +1,22 @@
+main{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    align-items: center;
+    margin: 0px;
+}
+#heroImage{
+    width: 400px;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    line-height: 2;
+}
+heroImg{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 80px;
+}

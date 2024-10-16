@@ -1,0 +1,40 @@
+header{   
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+}
+.leftNav{
+    display: flex;
+    gap: 40px;
+    margin: 30px;
+    align-items: center;
+}
+select{
+    background-color: transparent;
+    border: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+.rightNav {
+    margin:30px;
+    display: flex;
+    gap: 30px;
+}
+#Login{
+    background-color: transparent;
+    border: none;
+}
+#Register{
+    height: 35px;
+    background-color: transparent;
+    border-radius: 10px;
+    width: 90px;
+}
+/* select{
+    font-size: 15px;
+} */
